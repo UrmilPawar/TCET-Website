@@ -1,0 +1,159 @@
+/* --------------------------------------------------------------------for HOME-------------------------------------------------------------- */
+body{
+    margin:0%;
+}
+.header{
+    display:flex;
+    background-color: rgba(235, 115, 11, 0.937);
+  }
+.logo{
+    height: 150px;
+    width: 150px;
+    margin:20px;
+    background-color: black;
+}
+h1{
+    margin-left: 300px;
+    margin-top:70px;
+}
+.topnav {
+    overflow: hidden; 
+    /* overflow:hidden -any content that exceeds the dimensions of the "topnav" element will be clipped and not visible. */
+    background-color: rgb(3, 3, 131);
+  }
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+.topnav a:hover {
+    background-color: rgba(28, 104, 236, 0.937);
+    color: white;
+  }
+.flex-container {
+    display: flex;
+    padding-top: 5px;
+    padding-bottom: 30px;
+  }
+.column{
+    padding:20px;
+    border: 1px solid black;
+    margin:10px;
+    border-radius: 30px;
+    border-width: 2px;
+    border-color:  rgba(235, 115, 11, 0.937);
+    width:33.33%;
+  }
+
+.footer{
+    background-color:rgb(3, 3, 131) ;
+    color:white;
+    text-align: center;
+    margin-top:89px;
+    margin-bottom: 0px;
+}
+h3{
+    text-align: center;
+}
+
+/* --------------------------------------------------------------------for Academic-------------------------------------------------------------- */
+ .department{
+    text-align:center;
+ } 
+ .comp{
+  margin:0px;
+  padding:0px;
+  color: maroon;
+  margin-top:10px;
+ }
+ .Dept{
+  background-color: maroon;
+  color:white;
+ }
+ .top{
+  background-color: maroon;
+  color:white;
+  text-align: center;
+ }
+ .tab{
+  padding-left: 500px;
+ text-align: center;
+ width: 1000px;
+}
+.head1{
+  color:White;
+   background-color: maroon;
+   height: 30px;
+   text-align: center;
+}
+.head2{
+   background-color: pink;
+   height: 30px;
+   text-align: center;
+}
+ th,td{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+/*--------------------------------------------Contact Form----------------------------------------------*/
+.content{
+  background-image: url("images/tcet.jpg");
+  /* background-repeat: no-repeat;
+  background-attachment: fixed;
+  width:190px;
+  height:12000px; */
+  position:absolute;
+  top:230px;
+  height:500px;
+  width:1600px;
+  
+}
+.contact{
+  height:300px;
+  width:500px;
+  border-radius: 10px;
+  padding-left: 10px;
+  margin-top: 100px;
+  margin-left: 500px;
+  background-color:rgba(235, 115, 11, 0.8) ;
+  text-align: left;
+
+}
+.btn{
+  margin-left:200px;
+  margin-top:40px;
+  height:50px;
+  width:150px;
+  border-radius: 20px;
+  background-color: rgb(6, 38, 119);
+  color:White;
+  transition-duration: 0.4s;
+}
+.btn:hover{
+  background-color:rgb(33, 92, 243) ;
+  color:White;
+}
+label,input{
+  margin-bottom:30px;
+}
+input,textarea{
+  height:20px;
+  width:400px;
+  margin-left:10px;
+}
+.con{
+  margin-left:180px;
+}
+.footer-2
+{
+    text-align: center;
+    background-color: rgb(3, 3, 74);
+    color: white;
+    margin-top:490px;
+    height: 50px;
+    padding-top: 12px;
+
+}
