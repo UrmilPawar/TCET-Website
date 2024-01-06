@@ -1,5 +1,5 @@
 # Tcet Website 
-This project was part of our PMKVY training which involves recreatig our college website with concepts of HTML and CSS
+This project was part of our PMKVY training which involves recreatig our college website with concepts of HTML and CSS.
 Following Pages were created
 - Home Page
 - Academics
